@@ -4,4 +4,4 @@
 
 ### 기능
 #### - Wavelet 변환된 이미지를 볼 수 있다.
-<img src=""></img><br/>
+<img src="image/image2.JPG"></img><br/>
